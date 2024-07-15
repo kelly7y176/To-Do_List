@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>To-Do List</h1>
+    <div class="task-input">
+      <input type="text" id="task-input" placeholder="Enter a task">
+      <input type="datetime-local" id="task-date-time">
+    </div>
+    <textarea class="task-description" id="task-description" placeholder="Enter a description"></textarea>
+    <button onclick="addTask()" id="add-task-button">Add</button>
+    <ul id="task-list"></ul>
+  </div>
+  
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
