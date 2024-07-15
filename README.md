@@ -1,4 +1,4 @@
-# To-Do_List
+# To-Do List
 This is a simple to-do list application that allows you to manage your tasks and stay organized. Users can easily add new tasks, mark them as completed, and delete tasks that are no longer relevant. The application provides a clean and intuitive interface, making it easy to quickly review your pending tasks and track your progress.
 
 
